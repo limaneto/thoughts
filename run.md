@@ -1,5 +1,5 @@
 # **Run**
-**In my pursuit of a healthiest life, the habit of running is a big achievement.**
+**In my pursuit of a healthier life, the habit of running is a big achievement.**
 
 ##### Goal
   - Run at least 2 days per week
