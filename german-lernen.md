@@ -7,7 +7,7 @@
   - Make a simple website to quiz your knowlegde.
 
 ##### How am I going ?
-- [] Website
+- Website
 - [x] Week 26
 - Week 27
 - Week 28
