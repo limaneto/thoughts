@@ -6,7 +6,7 @@
   - Be abble to run 15 km
 
 ##### How am I going ?
-[] 15 km
+- 15 km
 - [x] Week 26
 - Week 27
 - Week 28
