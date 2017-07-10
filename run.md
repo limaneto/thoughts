@@ -8,7 +8,7 @@
 ##### How am I going ?
 - 15 km
 - [x] Week 26
-- Week 27
+- [x] Week 27
 - Week 28
 > Pain is inevitable. Suffering is optional.
 
