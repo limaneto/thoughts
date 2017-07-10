@@ -9,7 +9,7 @@
 ##### How am I going ?
 - Website
 - [x] Week 26
-- Week 27
+- [x] Week 27
 - Week 28
 > Learning to think in another language allows you to see your own culture in a better viewpoint.
 
